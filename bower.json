@@ -1,7 +1,11 @@
 {
-  "name": "your-app",
+  "name": "seniorproject",
   "version": "0.0.1",
   "main": "public/app.js",
-  "dependencies": {},
+  "dependencies": {
+    "core-elements": "Polymer/core-elements#~0.4.1",
+    "paper-elements": "Polymer/paper-elements#~0.4.1",
+    "juicy-html": "https://github.com/Juicy/juicy-html.git#~0.0.20140720"
+  },
   "overrides": {}
 }

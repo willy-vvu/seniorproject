@@ -1,7 +1,7 @@
 {
-  "name": "your-app",
-  "description": "Description",
-  "author": "Your Name",
+  "name": "seniorproject",
+  "description": "Willy's Senior Project",
+  "author": "William Wu",
   "version": "0.0.1",
   "repository": {
     "type": "git",
