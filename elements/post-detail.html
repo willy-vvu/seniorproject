@@ -1,0 +1,31 @@
+<link rel="import" href="/bower_components/polymer/polymer.html">
+<link rel="import" href="/bower_components/juicy-html/juicy-html.html">
+<link rel="import" href="/elements/date-time.html">
+
+<polymer-element name="post-detail" noscript attributes="post">
+  <template>
+    <style>
+      h2{
+        font-weight: 200;
+        margin-bottom: 0;
+        font-size: 1.75em;
+      }
+      h2 p{
+        margin-top: 0;
+        font-size: .75em;
+        font-style: italic;
+      }
+      img{
+        width: 30%;
+      }
+    </style>
+    <h2>
+      {{post.title}}
+      <p><date-time date="{{post.date}}"></date-time></p>
+    </h2>
+    <article>
+      <template is="juicy-html" content="{{post.content}}"></template>
+    </article>
+  </template>
+</polymer-element>
+

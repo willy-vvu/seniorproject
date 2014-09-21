@@ -1,0 +1,14 @@
+<link rel="import" href="/bower_components/polymer/polymer.html">
+<link rel="import" href="/bower_components/core-selector/core-selector.html">
+<link rel="import" href="/elements/post-detail.html">
+
+<polymer-element name="post-list" noscript>
+  <template>
+    <core-selector>
+      <template repeat="{{post in content}}">
+        <post-detail post="{{post}}"></post-detail>
+      </template>
+    </core-selector>
+    <br>
+  </template>
+</polymer-element>

@@ -1,0 +1,15 @@
+<link rel="import" href="/bower_components/polymer/polymer.html">
+
+<polymer-element name="date-time" attributes="date">
+  <template>
+    <span id="date"></span>
+  </template>
+  <script>
+    Polymer("date-time", {
+      "ready":function(){
+        this.$.date.innerText = new Date(this.date).toDateString();
+      }
+    });
+  </script>
+</polymer-element>
+
