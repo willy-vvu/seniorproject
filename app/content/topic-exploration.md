@@ -2,7 +2,7 @@ Ever since the mid-to end of my junior year, I have had ideas for Senior project
 
 I would like my senior year to be a time in which I can invest larger portions of my time to get returns much larger than I had ever before. I've reached a point in which I can think up ideas that require much larger portions of time to reasonably achieve. Of course, I would not want my college applications to be jeopardized by my investing, so I most of my project work will take place after the new year. As always, I would like to continue to grow my programming and math skills.
 
-Recently, thinking about educational technologies has opened my eyes to the new articles in newspapers and magazines every week. In the past week alone, I picked up two articles from the Wall Street Journal and TIME Magazine about technology in the classroom, which were both very relevant to my project as well as society today.
+Recently, thinking about educational technologies has opened my eyes to the new articles in newspapers and magazines every week. In the past week alone, I picked up two articles from the Wall Street Journal and TIME Magazine about technology in the classroom, which were both very relevant to my project as well as society today.;
 
 ![](topic-exploration/TIME.jpg)
 ![](topic-exploration/Wall Street.jpg)
