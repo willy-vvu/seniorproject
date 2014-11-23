@@ -7,12 +7,14 @@
     <style>
       h2 {
         font-weight: 200;
-        margin-bottom: 0;
+        margin-bottom: 0.2em;
+        margin-top: 3em;
         font-size: 1.75em;
       }
-      h2 p {
-        margin-top: 0;
-        font-size: .75em;
+      h3 {
+        margin-top: 0.2em;
+        margin-bottom: 0.2em;
+        font-weight: 200;
         font-style: italic;
       }
       img {
@@ -21,8 +23,8 @@
     </style>
     <h2>
       {{post.title}}
-      <p><date-time date="{{post.date}}"></date-time></p>
     </h2>
+    <h3><date-time date="{{post.date}}"></date-time></h3>
     <article>
       <template is="juicy-html" content="{{post.content}}"></template>
     </article>
