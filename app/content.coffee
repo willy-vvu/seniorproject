@@ -1,5 +1,10 @@
 module.exports=[
   {
+    id : "informal-interview"
+    date : 1419201550246
+    title : "Informal Interview Blog Post"
+  }
+  {
     id : "essential-question-draft"
     date : 1416588810335
     title : "Essential Question Draft"
