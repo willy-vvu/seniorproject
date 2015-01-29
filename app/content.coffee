@@ -1,5 +1,10 @@
 module.exports=[
   {
+    id : "finalized-eq"
+    date : 1422552157423
+    title: "Product Declaration And Finalized EQ"
+  }
+  {
     id : "informal-interview"
     date : 1419201550246
     title : "Informal Interview Blog Post"

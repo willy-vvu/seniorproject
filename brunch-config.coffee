@@ -7,6 +7,6 @@ exports.config =
       joinTo: 'app.css'
     templates:
       joinTo: 'app.js'
-  plugins:
-    autoReload:
-      enabled: false
+#  plugins:
+#    autoReload:
+#      enabled: false
