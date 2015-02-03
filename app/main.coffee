@@ -9,8 +9,11 @@ updatePost = ()->
   if index?
     post = content[index]
     $("main>h1").text(post.title)
-    $("main>article").html(require("content/#{post.id}"))
-    $("main>emphasis").text(new Date(post.date).toLocaleDateString())
+    postcontent = require("content/#{post.id}")
+    $("main>article").html(postcontent)
+    minutes = Math.round( postcontent.split(" ").length / 250)
+    $("main>.date").text("#{new Date(post.date).toLocaleDateString()}")
+    $("main>.readtime").text("A #{minutes} minute read")
     if (index + 1 < content.length)
       $(".next").show().attr("href", "#"+content[index+1].id)
     else
