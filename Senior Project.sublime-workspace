@@ -1,0 +1,1893 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Refl",
+				"Reflection-Questions"
+			],
+			[
+				"recent",
+				"recently"
+			],
+			[
+				"post",
+				"postcontent"
+			],
+			[
+				"hit",
+				"hitbox"
+			],
+			[
+				"BF",
+				"BFCompiler"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"pars",
+				"parsedJSON"
+			],
+			[
+				"eve",
+				"eventSequence"
+			],
+			[
+				"deb",
+				"debugBox"
+			],
+			[
+				"test",
+				"test3Data"
+			],
+			[
+				"move",
+				"moveObject"
+			],
+			[
+				"animat",
+				"animationDuration"
+			],
+			[
+				"anima",
+				"animationDuration"
+			],
+			[
+				"copy",
+				"copyFighterData"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"mote",
+				"moteContainer"
+			],
+			[
+				"SPRI",
+				"SPRITE_MAX_DIST"
+			],
+			[
+				"box",
+				"boxes"
+			],
+			[
+				"Test",
+				"FinalTest"
+			],
+			[
+				"Fina",
+				"FinalTest"
+			],
+			[
+				"fin",
+				"FinalTest"
+			],
+			[
+				"initial",
+				"initialInvulnerability"
+			],
+			[
+				"init",
+				"initialInvulnerability"
+			],
+			[
+				"lie",
+				"lifetime"
+			],
+			[
+				"PROJ",
+				"PROJECILE_MAP"
+			],
+			[
+				"activ",
+				"activeBoxes"
+			],
+			[
+				"collis",
+				"collisionBoxes"
+			],
+			[
+				"projec",
+				"projectileSprite"
+			],
+			[
+				"End",
+				"endTime"
+			],
+			[
+				"proj",
+				"projectileSprite"
+			],
+			[
+				"pro",
+				"projectileSprite"
+			],
+			[
+				"projectile",
+				"projectileSprite"
+			],
+			[
+				"project",
+				"projectileMap"
+			],
+			[
+				"charge",
+				"CHARGE_TIME"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"velo",
+				"velocity"
+			],
+			[
+				"figh",
+				"fighterData"
+			],
+			[
+				"av",
+				"averagePosition"
+			],
+			[
+				"act",
+				"activeBoxes"
+			],
+			[
+				"model",
+				"modelJSON"
+			],
+			[
+				"active",
+				"activeBox"
+			],
+			[
+				"activeBox",
+				"activeBoxes"
+			],
+			[
+				"stage",
+				"stageData"
+			],
+			[
+				"game",
+				"gamepad"
+			],
+			[
+				"Gamp",
+				"GamepadController"
+			],
+			[
+				"Dod",
+				"DodgeMove"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"joy",
+				"joystick"
+			],
+			[
+				"joysti",
+				"joystickPrevious"
+			],
+			[
+				"attac",
+				"attackButton"
+			],
+			[
+				"double",
+				"doubleTiltAnalog"
+			],
+			[
+				"doubleT",
+				"doubleTiltAnalog"
+			],
+			[
+				"doubl",
+				"doubleTiltAnalog"
+			],
+			[
+				"log",
+				"log	log"
+			],
+			[
+				"vel",
+				"velocity"
+			],
+			[
+				"blend",
+				"blendFrames"
+			],
+			[
+				"SHI",
+				"SHIELD"
+			],
+			[
+				"veloc",
+				"velocityToAdd"
+			],
+			[
+				"allow",
+				"allowAnimatedMovement"
+			],
+			[
+				"base",
+				"baseBone"
+			],
+			[
+				"fight",
+				"fighter"
+			],
+			[
+				"das",
+				"dashSpeed"
+			],
+			[
+				"mov",
+				"movename"
+			],
+			[
+				"color",
+				"colorStops"
+			],
+			[
+				"damage",
+				"damageStops"
+			],
+			[
+				"dama",
+				"damageStops"
+			],
+			[
+				"colo",
+				"colorA"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"new",
+				"newTime"
+			],
+			[
+				"suspend",
+				"suspendMove"
+			],
+			[
+				"anim",
+				"animaition"
+			],
+			[
+				"shield",
+				"shielding"
+			],
+			[
+				"SHIELD",
+				"SHIELD_MAX_DAMAGE"
+			],
+			[
+				"ShieldD",
+				"SHIELD_DRAIN_RATE"
+			],
+			[
+				"shie",
+				"shieldDamage"
+			],
+			[
+				"shil",
+				"shielding"
+			],
+			[
+				"Object",
+				"Object3D"
+			],
+			[
+				"tru",
+				"triggerableMovesBackup"
+			],
+			[
+				"trig",
+				"triggerableMoves"
+			],
+			[
+				"trigger",
+				"triggerableMoves"
+			],
+			[
+				"trigge",
+				"triggerableMoves"
+			],
+			[
+				"trigg",
+				"triggerableMoves"
+			],
+			[
+				"ANY",
+				"ANY_DIRECTION"
+			],
+			[
+				"susp",
+				"suspendedMove"
+			],
+			[
+				"An",
+				"ANY_DIRECTION"
+			],
+			[
+				"suspen",
+				"suspendCounter"
+			],
+			[
+				"suspended",
+				"suspendedMove"
+			],
+			[
+				"suspe",
+				"suspendCounter"
+			],
+			[
+				"spse",
+				"suspendedMove"
+			],
+			[
+				"update",
+				"updateHUD"
+			],
+			[
+				"led",
+				"ledge"
+			],
+			[
+				"ledge",
+				"ledgegrab"
+			],
+			[
+				"launch",
+				"launchSpeedFactor"
+			],
+			[
+				"camer",
+				"cameraShakeTime"
+			],
+			[
+				"lauc",
+				"launchSpeedFactor"
+			],
+			[
+				"cam",
+				"cameraShakeTime"
+			],
+			[
+				"camera",
+				"cameraShakeTime"
+			],
+			[
+				"came",
+				"cameraShake"
+			],
+			[
+				"border-bottom-",
+				"border-bottom-width"
+			],
+			[
+				"smash",
+				"smashChargeFactor"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"facing",
+				"facingRight"
+			],
+			[
+				"jum",
+				"jumpQueued"
+			],
+			[
+				"triggerNex",
+				"triggerNextPriority"
+			],
+			[
+				"animt",
+				"animationDuration"
+			],
+			[
+				"sm",
+				"smashCharge"
+			],
+			[
+				"reset",
+				"resetBlendWeights"
+			],
+			[
+				"maxPos",
+				"maxPositionX"
+			],
+			[
+				"for",
+				"forx	Range Comprehension (exclusive)"
+			],
+			[
+				"current",
+				"currentTime"
+			],
+			[
+				"up",
+				"updateAnimation"
+			],
+			[
+				"curr",
+				"currentTime"
+			],
+			[
+				"DI",
+				"DI_MOVEMENT"
+			],
+			[
+				"fighter",
+				"fighterData"
+			],
+			[
+				"fightr",
+				"fighterData"
+			],
+			[
+				"temp",
+				"tempVector"
+			],
+			[
+				"faci",
+				"facingRight"
+			],
+			[
+				"z",
+				"zFactor"
+			],
+			[
+				"targe",
+				"targetCameraPosition"
+			],
+			[
+				"velocity",
+				"velocityToAdd"
+			],
+			[
+				"text",
+				"textbf"
+			],
+			[
+				"sec",
+				"section	Section"
+			],
+			[
+				"testE",
+				"testEmails"
+			],
+			[
+				"in",
+				"indexOf"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 381,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/content/blog-post-1.coffee",
+			"settings":
+			{
+				"buffer_size": 6064,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/main.styl",
+			"settings":
+			{
+				"buffer_size": 443,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app.js",
+			"settings":
+			{
+				"buffer_size": 306555,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 170,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "brunch-config.coffee",
+			"settings":
+			{
+				"buffer_size": 892,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/content.coffee",
+			"settings":
+			{
+				"buffer_size": 666,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/main.coffee",
+			"settings":
+			{
+				"buffer_size": 1181,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"ww",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sscs",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"pcpackages",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"pcsettings",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"list",
+				"Floobits - List Users"
+			],
+			[
+				"floobi",
+				"Floobits - Join Workspace"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"REINT",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sall",
+				"File: Save All"
+			],
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"pick",
+				"Color Picker"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lint",
+				"Coffee: Lint"
+			],
+			[
+				"coffee",
+				"Coffee: Lint"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"coffe",
+				"Coffee: Display Lexer Tokens"
+			],
+			[
+				"coffelint",
+				"Coffee: Lint"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sssh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssja",
+				"Set Syntax: Java"
+			],
+			[
+				"wwt",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ssj",
+				"Set Syntax: Java"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"loe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 244.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"sublime.packages_path()",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/William/Documents/2014-2015/seniorproject",
+		"/C/Users/William/Documents/2014-2015/seniorproject/app",
+		"/C/Users/William/Documents/2014-2015/seniorproject/public"
+	],
+	"file_history":
+	[
+		"/C/Users/William/Documents/2014-2015/seniorproject/bower_components/jquery/src/selector-sizzle.js",
+		"/C/Users/William/Documents/2014-2015/seniorproject/Senior Project.sublime-project",
+		"/C/Users/William/Documents/2014-2015/Smash/app/fighters/test3/test3.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/fighters/test3/moves/TestFireMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/Event.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/GroundAttackMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/DashAttackMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/DeadMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/Move.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/Utils.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/Box.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/CrawlMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/WalkMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/fighters/test3/moves/TestCounterAttackMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/fighters/test3/moves/TestCounterMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/Fighter.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/controller/KeyboardController.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/controller/GamepadController.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/Stage.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/assets/index.html",
+		"/C/Users/William/Documents/2014-2015/Smash/app/Editor.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/DodgeMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/auto-reload-brunch/node_modules/ws/node_modules/nan/build/config.gypi",
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/traversing.js",
+		"/C/Users/William/Documents/2014-2015/Smash/app/fighters/test3/moves/TestRecoveryMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/fighters/test3/projectiles/TestProjectile.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/CrouchMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/controller/Controller.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/auto-reload-brunch/node_modules/ws/node_modules/nan/LICENSE",
+		"/C/Users/William/Documents/2014-2015/Smash/app/main.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/DisabledFallMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/dimensions.js",
+		"/C/Users/William/Documents/2014-2015/Smash/app/Entity.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/GroundMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/optimist/example/line_count_options.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/optimist/example/boolean_double.js",
+		"/F/PC/Monaco/x360kb.ini",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/optimist/index.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/optimist/example/bool.js",
+		"/C/Users/William/Documents/2014-2015/Smash/public/models/PersonThing.blend",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/lib/utils.js",
+		"/C/Users/William/Documents/2014-2015/Smash/package.json",
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/effects/animatedSelector.js",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/AerialMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/stages/GridWalk.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/Game.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/public/models/Stage.json",
+		"/C/Users/William/Documents/2014-2015/Smash/app/stages/FinalTest.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/LedgeGrabMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/JumpMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/public/fighters/test3.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/public/index.html",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/source-map/Makefile.dryice.js",
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/sizzle/dist/sizzle.min.map",
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/sizzle/dist/sizzle.min.js",
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/css/hiddenVisibleSelectors.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/coffee-script-brunch/index.js",
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/sizzle/dist/sizzle.js",
+		"/C/Users/William/Documents/2014-2015/Smash/app/assets/models/Test 3.json",
+		"/C/Users/William/Documents/2014-2015/Smash/public/OrbitControls.js",
+		"/C/Users/William/Documents/2014-2015/Smash/public/app.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/source-map/build/prefix-utils.jsm",
+		"/C/Users/William/Documents/2014-2015/Smash/public/models/Stage.blend",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/source-map/test/source-map/test-source-map-generator.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/source-map/test/source-map/test-api.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/source-map/test/source-map/test-array-set.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/test/run-tests.js",
+		"/C/Users/William/Documents/2014-2015/Smash/app/fighters/test3/moves/TestNeutralSpecialMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/public/images/Test3Projectile.xcf",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/LandMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/auto-reload-brunch/node_modules/ws/lib/Receiver.js",
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/queue/delay.js",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/RollMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/NeutralMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/SpecialAttackMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/AirDodgeMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/IdleMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/ShieldMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/test/compress/issue-22.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/optimist/example/divide.js",
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/css/addGetHookIf.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/optimist/test/_/argv.js",
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/ajax/load.js",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/HurtMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/assets/models/PersonThing.blend",
+		"/C/Users/William/Documents/2014-2015/Smash/app/assets/OrbitControls.js",
+		"/C/Users/William/Documents/2014-2015/Smash/Smash.sublime-project",
+		"/C/Users/William/Documents/2014-2015/Senior Project Interview/Interview_with_Neil_Heffernan.TextGrid",
+		"/C/Users/William/Documents/2014-2015/Senior Project Interview/Interview_with_Neil_Heffernan.txt",
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/ajax.js",
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/var/toString.js",
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/var/hasOwn.js",
+		"/C/Users/William/Documents/2014-2015/Smash/public/models/nexus.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/.travis.yml",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/uglify-to-browserify/README.md",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/coffee-script-brunch/node_modules/coffee-script/node_modules/mkdirp/test/return.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/auto-reload-brunch/node_modules/ws/lib/BufferUtil.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/javascript-brunch/node_modules/esprima/esprima.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/javascript-brunch/node_modules/esprima/test/test.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/coffee-script-brunch/node_modules/coffee-script/README",
+		"/C/Users/William/Documents/2014-2015/seniorproject/.gitignore",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/auto-reload-brunch/node_modules/ws/lib/Validation.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/test/compress/loops.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/auto-reload-brunch/node_modules/ws/lib/WebSocket.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/coffee-script-brunch/node_modules/coffee-script/node_modules/mkdirp/test/return_sync.js",
+		"/C/Users/William/Documents/2014-2015/Smash/README.md",
+		"/C/Users/William/Documents/2014-2015/Smash/public/models/Test 3.json",
+		"/C/Users/William/Documents/2014-2015/Smash/public/models/Test 3.blend",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/lib/ast.js",
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/data.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/optimist/example/default_hash.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/package.json",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/test/compress/debugger.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/package.json",
+		"/C/Users/William/Downloads/JavaTester.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/auto-reload-brunch/node_modules/ws/node_modules/tinycolor/.gitignore",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/test/compress/concat-strings.js",
+		"/C/Users/William/Documents/2014-2015/Smash/app/fighters/test3.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/fighters/PersonThing.coffee",
+		"/C/Users/William/Non-sync/PC/SSGX/Readme.txt",
+		"/C/Users/William/Downloads/Ori and the Blind Forest PC game ^^nosTEAM^^/READ ME FIRST !!!.txt",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/FallMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/SmashMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/test3/TestRecoveryMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/app/moves/SmashChargeMove.coffee",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/coffee-script-brunch/node_modules/coffee-script/lib/coffee-script/lexer.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/test/compress/blocks.js",
+		"/C/Users/William/Documents/2014-2015/Smash/node_modules/auto-reload-brunch/vendor/auto-reload.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			"",
+			"<open files>",
+			"",
+			"<open files>",
+			"",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":",
+			"Precontent",
+			"Intro-Continued",
+			"_blank",
+			"link = ",
+			"Renderer",
+			"_blank",
+			"target",
+			"target = \"",
+			"target",
+			"<a",
+			"span",
+			"upspe",
+			"freeze",
+			"  ",
+			"SpecialMove",
+			"Move",
+			"trigger",
+			"makeVul",
+			"hurt",
+			"dying",
+			"dead",
+			"dying",
+			"deadmove",
+			"@dying",
+			"respawn",
+			"GroundAttackMove",
+			"damage",
+			"smashCharge",
+			"hurt",
+			"copyF",
+			"copyFighte",
+			"copyFr",
+			"editor",
+			"debugbox",
+			"activate",
+			"visible",
+			"debugBo",
+			"debug",
+			"new Fighter",
+			"stageData",
+			"players",
+			"animation",
+			"duration",
+			"options",
+			"box",
+			"255",
+			"id",
+			"setContents",
+			"getContents",
+			"()\n",
+			"angle",
+			"sidesmash",
+			"dead",
+			"log",
+			"camera",
+			"box",
+			"scale",
+			"@deltaTime",
+			"update",
+			"stageData",
+			"stagedata",
+			"init",
+			"stage",
+			"dying",
+			"update",
+			"dying",
+			"respawn",
+			"respawn(",
+			"currentTime",
+			"reset",
+			"trigger",
+			"respawn",
+			"dying",
+			"respawn",
+			"move",
+			"console.log",
+			"dying",
+			"dead",
+			"deadmove",
+			"respawn",
+			"update",
+			"respawn",
+			"deadmove",
+			"respawn",
+			"Move",
+			"require",
+			"require(",
+			"require((",
+			"move.name",
+			"shake",
+			"update",
+			"velocity",
+			"respawn",
+			"updatePhysics",
+			"updateShield",
+			"updatePhys",
+			"trigger",
+			"respawn",
+			"update",
+			"/*",
+			"makeVulneendDodgerable",
+			"endDodge",
+			"dod",
+			"shield",
+			"\"\"",
+			"\"",
+			"]:",
+			"text = ",
+			"intervals [",
+			"    xmin = 0 \n",
+			"class = \"IntervalTier\" ",
+			"intervals: size",
+			"xmax",
+			"xmin",
+			"            text = \"\" \n",
+			"yeah",
+			"um, uh",
+			"you know",
+			"invincibl",
+			"frictionZ",
+			"friction",
+			"applyVelo",
+			"gravity",
+			"air turn",
+			"AerialMove",
+			"air turn",
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"@",
+			"otherFighter",
+			"@fighter.controller.joystick.x",
+			"require(\"controller/Controller\")",
+			"request",
+			"0",
+			"",
+			"cross",
+			"mag",
+			"normalize",
+			"vSet("
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								381,
+								381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/content/blog-post-1.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4420,
+								4420
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/sublime-better-coffeescript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3599.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/main.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								398,
+								398
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 306555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286021,
+								286021
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 11.0,
+						"translation.y": 245960.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "brunch-config.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 892,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sublime-better-coffeescript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/content.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								368,
+								368
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sublime-better-coffeescript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/main.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								789,
+								789
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sublime-better-coffeescript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 208.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Senior Project.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"test",
+				"app\\fighters\\test3\\test3.coffee"
+			],
+			[
+				"fi",
+				"app\\Fighter.coffee"
+			],
+			[
+				"move",
+				"app\\moves\\Move.coffee"
+			],
+			[
+				"f",
+				"app\\Fighter.coffee"
+			],
+			[
+				"fig",
+				"app\\Fighter.coffee"
+			],
+			[
+				"test3",
+				"app\\fighters\\test3\\test3.coffee"
+			],
+			[
+				"wal",
+				"app\\moves\\WalkMove.coffee"
+			],
+			[
+				"dead",
+				"app\\moves\\DeadMove.coffee"
+			],
+			[
+				"craw",
+				"app\\moves\\CrawlMove.coffee"
+			],
+			[
+				"stage",
+				"app\\Stage.coffee"
+			],
+			[
+				"deadmo",
+				"app\\moves\\DeadMove.coffee"
+			],
+			[
+				"event",
+				"app\\Event.coffee"
+			],
+			[
+				"mov",
+				"app\\moves\\Move.coffee"
+			],
+			[
+				"dat",
+				"app\\moves\\DashAttackMove.coffee"
+			],
+			[
+				"groundat",
+				"app\\moves\\GroundAttackMove.coffee"
+			],
+			[
+				"dashat",
+				"app\\moves\\DashAttackMove.coffee"
+			],
+			[
+				"dash",
+				"app\\moves\\DashAttackMove.coffee"
+			],
+			[
+				"boxo",
+				"app\\Box.coffee"
+			],
+			[
+				"fih",
+				"app\\Fighter.coffee"
+			],
+			[
+				"controll",
+				"app\\controller\\GamepadController.coffee"
+			],
+			[
+				"key",
+				"app\\controller\\KeyboardController.coffee"
+			],
+			[
+				"utils",
+				"app\\Utils.coffee"
+			],
+			[
+				"box",
+				"app\\Box.coffee"
+			],
+			[
+				"figh",
+				"app\\Fighter.coffee"
+			],
+			[
+				"index",
+				"app\\assets\\index.html"
+			],
+			[
+				"stag",
+				"app\\Stage.coffee"
+			],
+			[
+				"edit",
+				"app\\Editor.coffee"
+			],
+			[
+				"ind",
+				"app\\assets\\index.html"
+			],
+			[
+				"sta",
+				"app\\Stage.coffee"
+			],
+			[
+				"test3.coff",
+				"app\\fighters\\test3\\test3.coffee"
+			],
+			[
+				"jum",
+				"app\\moves\\JumpMove.coffee"
+			],
+			[
+				"projectile",
+				"app\\fighters\\test3\\projectiles\\TestProjectile.coffee"
+			],
+			[
+				"stage.json",
+				"public\\models\\Stage.json"
+			],
+			[
+				"game",
+				"app\\Game.coffee"
+			],
+			[
+				"projec",
+				"app\\fighters\\test3\\projectiles\\TestProjectile.coffee"
+			],
+			[
+				"ledge",
+				"app\\moves\\LedgeGrabMove.coffee"
+			],
+			[
+				"move.",
+				"app\\moves\\Move.coffee"
+			],
+			[
+				"deadmov",
+				"app\\moves\\DeadMove.coffee"
+			],
+			[
+				"deadmove",
+				"app\\moves\\DeadMove.coffee"
+			],
+			[
+				"dea",
+				"app\\moves\\DeadMove.coffee"
+			],
+			[
+				"entit",
+				"app\\Entity.coffee"
+			],
+			[
+				"projecttile",
+				"app\\fighters\\test3\\projectiles\\TestProjectile.coffee"
+			],
+			[
+				"roll",
+				"app\\moves\\RollMove.coffee"
+			],
+			[
+				"aird",
+				"app\\moves\\AirDodgeMove.coffee"
+			],
+			[
+				"dod",
+				"app\\moves\\DodgeMove.coffee"
+			],
+			[
+				"fight",
+				"app\\Fighter.coffee"
+			],
+			[
+				"shieldm",
+				"app\\moves\\ShieldMove.coffee"
+			],
+			[
+				"ledgegra",
+				"app\\moves\\LedgeGrabMove.coffee"
+			],
+			[
+				"nsmov",
+				"app\\fighters\\test3\\moves\\TestNeutralSpecialMove.coffee"
+			],
+			[
+				"nemove",
+				"app\\moves\\NeutralMove.coffee"
+			],
+			[
+				"spec",
+				"app\\moves\\SpecialAttackMove.coffee"
+			],
+			[
+				"special",
+				"app\\moves\\SpecialAttackMove.coffee"
+			],
+			[
+				"jump",
+				"app\\moves\\JumpMove.coffee"
+			],
+			[
+				"testproj",
+				"app\\fighters\\test3\\projectiles\\TestProjectile.coffee"
+			],
+			[
+				"inhe",
+				"public\\index.html"
+			],
+			[
+				"gamepad",
+				"app\\controller\\GamepadController.coffee"
+			],
+			[
+				"contr",
+				"app\\controller\\Controller.coffee"
+			],
+			[
+				"fire",
+				"app\\fighters\\test3\\moves\\TestFireMove.coffee"
+			],
+			[
+				"enti",
+				"app\\Entity.coffee"
+			],
+			[
+				"testfire",
+				"app\\fighters\\test3\\moves\\TestFireMove.coffee"
+			],
+			[
+				"fighte",
+				"app\\Fighter.coffee"
+			],
+			[
+				"st",
+				"app\\Stage.coffee"
+			],
+			[
+				"ent",
+				"app\\Entity.coffee"
+			],
+			[
+				"fgi",
+				"app\\Fighter.coffee"
+			],
+			[
+				"tfm",
+				"app\\fighters\\test3\\moves\\TestFireMove.coffee"
+			],
+			[
+				"testneut",
+				"app\\fighters\\test3\\moves\\TestNeutralSpecialMove.coffee"
+			],
+			[
+				"bo",
+				"app\\Box.coffee"
+			],
+			[
+				"entity",
+				"app\\Entity.coffee"
+			],
+			[
+				"test3.cof",
+				"public\\fighters\\test3.coffee"
+			],
+			[
+				"statge.coff",
+				"app\\stages\\FinalTest.coffee"
+			],
+			[
+				"idel",
+				"app\\moves\\IdleMove.coffee"
+			],
+			[
+				"keybo",
+				"app\\controller\\KeyboardController.coffee"
+			],
+			[
+				"personth",
+				"C:\\Users\\William\\Documents\\2014-2015\\Smash\\app\\fighters\\PersonThing.coffee"
+			],
+			[
+				"fighter",
+				"app\\Fighter.coffee"
+			],
+			[
+				"testrec",
+				"app\\moves\\test3\\TestRecoveryMove.coffee"
+			],
+			[
+				"smashmove",
+				"app\\moves\\SmashMove.coffee"
+			],
+			[
+				"stage.coff",
+				"app\\stages\\FinalTest.coffee"
+			],
+			[
+				"fall",
+				"app\\moves\\FallMove.coffee"
+			],
+			[
+				"cont",
+				"app\\controller\\Controller.coffee"
+			],
+			[
+				"aerial",
+				"app\\moves\\AerialMove.coffee"
+			],
+			[
+				"groud",
+				"app\\moves\\GroundMove.coffee"
+			],
+			[
+				"controller",
+				"app\\controller\\Controller.coffee"
+			],
+			[
+				"keyboard",
+				"app\\controller\\KeyboardController.coffee"
+			],
+			[
+				"ke",
+				"app\\controller\\KeyboardController.coffee"
+			],
+			[
+				"test3.json",
+				"app\\assets\\models\\Test 3.json"
+			],
+			[
+				"fallmove",
+				"app\\moves\\FallMove.coffee"
+			],
+			[
+				"ground",
+				"app\\moves\\GroundMove.coffee"
+			],
+			[
+				"walk",
+				"app\\moves\\WalkMove.coffee"
+			],
+			[
+				"groundmov",
+				"app\\moves\\GroundMove.coffee"
+			],
+			[
+				"aeria",
+				"app\\moves\\AerialMove.coffee"
+			],
+			[
+				"fallm",
+				"app\\moves\\FallMove.coffee"
+			],
+			[
+				"test.json",
+				"public\\models\\Test 3.json"
+			],
+			[
+				"land",
+				"app\\moves\\LandMove.coffee"
+			],
+			[
+				"inde",
+				"app\\assets\\index.html"
+			],
+			[
+				"stage.",
+				"app\\Stage.coffee"
+			],
+			[
+				"main.",
+				"app\\main.coffee"
+			],
+			[
+				"t",
+				"app\\fighters\\test3.coffee"
+			],
+			[
+				"dasha",
+				"app\\moves\\DashAttackMove.coffee"
+			],
+			[
+				"stun",
+				"app\\moves\\StunMove.coffee"
+			],
+			[
+				"smashchar",
+				"app\\moves\\SmashChargeMove.coffee"
+			],
+			[
+				"ledgegrab",
+				"app\\moves\\LedgeGrabMove.coffee"
+			],
+			[
+				"dodge",
+				"app\\moves\\DodgeMove.coffee"
+			],
+			[
+				"shieldmove",
+				"app\\moves\\ShieldMove.coffee"
+			],
+			[
+				"control",
+				"app\\controller\\Controller.coffee"
+			],
+			[
+				"gc",
+				"app\\controller\\GamepadController.coffee"
+			],
+			[
+				"kcont",
+				"app\\controller\\KeyboardController.coffee"
+			],
+			[
+				"conttroller",
+				"app\\controller\\Controller.coffee"
+			],
+			[
+				"s",
+				"app\\Stage.coffee"
+			],
+			[
+				"",
+				"app\\fighters\\test3.coffee"
+			],
+			[
+				"idle",
+				"app\\moves\\IdleMove.coffee"
+			],
+			[
+				"t3",
+				"app\\fighters\\test3.coffee"
+			],
+			[
+				"crouch",
+				"app\\moves\\CrouchMove.coffee"
+			],
+			[
+				"wm",
+				"app\\moves\\WalkMove.coffee"
+			],
+			[
+				"walkm",
+				"app\\moves\\WalkMove.coffee"
+			],
+			[
+				"k",
+				"app\\controller\\KeyboardController.coffee"
+			],
+			[
+				"t3.cof",
+				"app\\fighters\\test3.coffee"
+			],
+			[
+				"landm",
+				"app\\moves\\LandMove.coffee"
+			],
+			[
+				"aer",
+				"app\\moves\\AerialMove.coffee"
+			],
+			[
+				"ae",
+				"app\\moves\\AerialMove.coffee"
+			],
+			[
+				"ut",
+				"app\\Utils.coffee"
+			],
+			[
+				"t3c",
+				"app\\fighters\\test3.coffee"
+			],
+			[
+				"paper.",
+				"C:\\Users\\William\\Documents\\2014-2015\\primes\\Paper.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\William\\Documents\\2014-2015\\Personal Site\\Personal Site.sublime-project"
+			],
+			[
+				"per",
+				"C:\\Users\\William\\Documents\\2014-2015\\Personal Site\\Personal Site.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"stage",
+				"Stage"
+			],
+			[
+				"fighter",
+				"Fighter"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

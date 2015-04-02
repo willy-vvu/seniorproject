@@ -9,11 +9,16 @@ updatePost = ()->
   if index?
     post = content[index]
     $("main>h1").text(post.title)
-    postcontent = require("content/#{post.id}")
-    $("main>article").html(postcontent)
-    minutes = Math.round( postcontent.split(" ").length / 250)
     $("main>.date").text("#{new Date(post.date).toLocaleDateString()}")
-    $("main>.readtime").text("A #{minutes} minute read")
+    postcontent = require("content/#{post.id}")
+    if typeof postcontent is "string"
+      $("main>article").html(postcontent)
+      minutes = Math.round( postcontent.split(" ").length / 250)
+      $("main>.readtime").text("A #{minutes} minute read")
+    else
+      $("main>article").html("")
+      $("main>.readtime").text("Interactive post")
+
     if (index + 1 < content.length)
       $(".next").show().attr("href", "#"+content[index+1].id)
     else
