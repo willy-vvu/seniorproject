@@ -42,7 +42,7 @@ module.exports =
         Although it's a tad more difficult to [author interactive content](http://www.inklestudios.com/inklewriter/), I can hope that by providing interactivity, this post can be more enjoyable, engaging, and memorable.
 
         # Summary
-        It may not seem like much, but I had to write plenty of code under the scenes to make this interactive blog post work. It's sad that even simple interactions, like "choose your own response" that I created (psst - the outcomes [aren't really that different](https://www.youtube.com/watch?v=45PdtGDGhac); refresh and see for yourself), are lacking from media employed in today's classroom: handouts, textbooks, videos, and lectures.
+        It may not seem like much, but I had to write plenty of code under the scenes to make this interactive blog post work. It's sad that even simple interactions like the "choose your own response" are lacking from media employed in today's classroom: handouts, textbooks, videos, and lectures. By the way, the outcomes of your choices [aren't really that different](https://www.youtube.com/watch?v=45PdtGDGhac) after all. Refresh and see for yourself.
         """
       next: [
         {
@@ -59,7 +59,7 @@ module.exports =
       id: "Summary-Homework"
       content: 
         """
-        I view homework in the same light as lectures. Even though there is an exchange between student and teacher or student and content, it's mainly in one direction. For a lecture, the teacher mainly delivers content to the student, with the student asking clarifying questions. With homework, the student mainly writes answers down on paper, without any feedback until class the next day. On the side, I've been contemplating what how to bring bi-directionality to these exchanges.
+        I view homework in the same light as lectures. Even though there is an exchange between student and teacher or student and content, it's mainly in one direction. For a lecture, the teacher mainly delivers content to the student, with the student asking clarifying questions. With homework, the student mainly writes answers down on paper, without any feedback until class the next day. On the side, I've been contemplating how to bring bi-directionality to these exchanges.
         """
       next: "Summary-Continued"
     }

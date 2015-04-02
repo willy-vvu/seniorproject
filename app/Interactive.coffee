@@ -69,6 +69,7 @@ class Chooser
       elem = $("<li></li>").html(choice.html)
       do (choice)=>
         elem.click ()=>
+          ga('send', 'event', "#{node.id} chooser", "#{choice.next} chosen",{'page': "/#{currentPost}"});
           node.removeChoice(choice)
           @interactive.appendHeading(choice.html)
           @interactive.render(choice.next)

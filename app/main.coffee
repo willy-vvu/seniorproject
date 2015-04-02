@@ -28,13 +28,15 @@ updatePost = ()->
       $(".previous").show().attr("href", "#"+content[index-1].id)
     else
       $(".previous").hide()
+  ga('send', 'pageview', "/#{currentPost}")
 
 if (index = getPostIndex(location.hash[1..]))?
-  currentPost = content[index].id
+  window.currentPost = content[index].id
 else
-  currentPost = content[0].id
+  window.currentPost = content[0].id
+
 updatePost()
 $(window).on "hashchange", ()->
   if (index = getPostIndex(location.hash[1..]))?
-    currentPost = content[index].id
+    window.currentPost = content[index].id
     updatePost()
