@@ -1,4 +1,5 @@
 content = require("content")
+Interactive = require("Interactive")
 getPostIndex = (id)->
   for index in [0...content.length] when content[index].id is id
     return index
@@ -16,7 +17,7 @@ updatePost = ()->
       minutes = Math.round( postcontent.split(" ").length / 250)
       $("main>.readtime").text("A #{minutes} minute read")
     else
-      $("main>article").html("")
+      new Interactive(postcontent, $("main"))
       $("main>.readtime").text("Interactive post")
 
     if (index + 1 < content.length)

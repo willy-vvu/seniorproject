@@ -42,9 +42,32 @@ module.exports =
         Although it's a tad more difficult to author interactive content, I can hope that by providing interactivity, this post can be more enjoyable, engaging, and memorable.
 
         # Summary
-        It may not seem like much, but I had to write plenty of code under the scenes to make this interactive blog post work. It's sad that even simple interactions, like "choose your own response" that I created (psst - the outcomes [aren't really that different](https://www.youtube.com/watch?v=45PdtGDGhac); refresh and see for yourself), are lacking from learning aids employed in today's classroom: handouts, textbooks, and videos.
-
-        As a whole, my thoughts about the future of education are still quite fragmented. I have been busy soaking in as much information as possible through discussing with others, reading books, watching videos, and gathering research findings. In fact, yesterday, I saw a really nifty [TED talk](http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud). What strikes me as incredible is that a convergent vision can arise from numerous people who have never met each other.
+        It may not seem like much, but I had to write plenty of code under the scenes to make this interactive blog post work. It's sad that even simple interactions, like "choose your own response" that I created (psst - the outcomes [aren't really that different](https://www.youtube.com/watch?v=45PdtGDGhac); refresh and see for yourself), are lacking from media employed in today's classroom: handouts, textbooks, videos, and lectures.
+        """
+      next: [
+        {
+          content: "What about homework? Isn't that somewhat interactive?"
+          next: "Summary-Homework"
+        }
+        {
+          content: "What do you think is the future of education?"
+          next: "Summary-Continued"
+        }
+      ]
+    }
+    {
+      id: "Summary-Homework"
+      content: 
+        """
+        I view homework in the same light as lectures. Even though there is an exchange between student and teacher or student and content, it's mainly in one direction. For a lecture, the teacher mainly delivers content to the student, with the student asking clarifying questions. With homework, the student mainly writes answers down on paper, without any feedback until class the next day. On the side, I've been contemplating what how to bring bi-directionality to these exchanges.
+        """
+      next: "Summary-Continued"
+    }
+    {
+      id: "Summary-Continued"
+      content:
+        """
+        As a whole, my thoughts about the future of education are still quite fragmented. I have been busy soaking in as much information as possible through discussing with others, reading books, watching videos, and gathering research findings. I saw a really nifty [TED talk](http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud) about education, in which the speaker mentions ideas that I've thought about previously as well. I find it intriguing when multiple people across the world come up with the [same ideas at the same time](https://vimeo.com/14912890).
 
          However, I have yet to synthesize and coalesce the various snippets of information I've gathered. Recently, I've made some progress at making sense of it all. Eventually I'll end up capturing my thoughts in a research paper which I'll likely post down the road.
         """
@@ -55,7 +78,7 @@ module.exports =
         }
         {
           content: "Great! Keep me updated."
-          next: "Summary"
+          next: "Reflection"
         }
       ]
     }
@@ -69,7 +92,7 @@ module.exports =
         - Student-teacher
         - Student-content
 
-        There's plenty to be said on these three major topics, ranging from culture to storytelling to interactive media, respectively. I have yet to fully flesh out each of these sections in depth, but there's the rundown.
+        There's plenty to be said on these three major topics, ranging from culture to storytelling to interactive media, respectively. The TED Talk just touched upon student-student interaction. I have yet to fully flesh out each of these sections in depth, but there's the gist of it.
         """
       next: "Reflection"
     }
@@ -157,7 +180,7 @@ module.exports =
         """
         Alright, fine. It's not very exciting, but here it is:
 
-        ![](blog-post-1/Screenshot (110).png)
+        ![](blog-post-1/Screenshot110.png)
 
         If you're unfamiliar with code, it may feel like peek "behind the scenes", into the inner workings of the site and the post. I hope you found it helpful.
         """
@@ -179,7 +202,7 @@ module.exports =
       id: "Evidence-Links"
       content:
         """
-        Glad you noticed! There are five distinct links, some hidden within dialogue choices... I'll leave it to you to [find them all](http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/). And here's one of them!
+        Glad you noticed! There are six distinct links, some hidden within dialogue choices. I'll leave it to you to [find them all](http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/). And here's one of them!
         """
       next: "Evidence-Choice"
     }
