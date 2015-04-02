@@ -4,6 +4,62 @@
 		"selected_items":
 		[
 			[
+				"cho",
+				"choices"
+			],
+			[
+				"choi",
+				"choice"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"framg",
+				"fragmentData"
+			],
+			[
+				"appe",
+				"appendHeading"
+			],
+			[
+				"ndo",
+				"nodes"
+			],
+			[
+				"getN",
+				"getNode"
+			],
+			[
+				"choe",
+				"choices"
+			],
+			[
+				"append",
+				"appendHTML"
+			],
+			[
+				"current",
+				"currentNode"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"cur",
+				"currentNode"
+			],
+			[
+				"frag",
+				"fragmentData"
+			],
+			[
+				"pso",
+				"postcontent"
+			],
+			[
 				"Refl",
 				"Reflection"
 			],
@@ -452,134 +508,49 @@
 				"maxPositionX"
 			],
 			[
-				"for",
-				"forx	Range Comprehension (exclusive)"
-			],
-			[
-				"current",
-				"currentTime"
-			],
-			[
 				"up",
 				"updateAnimation"
 			],
 			[
 				"curr",
 				"currentTime"
-			],
-			[
-				"DI",
-				"DI_MOVEMENT"
-			],
-			[
-				"fighter",
-				"fighterData"
-			],
-			[
-				"fightr",
-				"fighterData"
-			],
-			[
-				"temp",
-				"tempVector"
-			],
-			[
-				"faci",
-				"facingRight"
-			],
-			[
-				"z",
-				"zFactor"
-			],
-			[
-				"targe",
-				"targetCameraPosition"
-			],
-			[
-				"velocity",
-				"velocityToAdd"
-			],
-			[
-				"text",
-				"textbf"
-			],
-			[
-				"sec",
-				"section	Section"
-			],
-			[
-				"testE",
-				"testEmails"
-			],
-			[
-				"in",
-				"indexOf"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
+			"file": "app/Interactive.coffee",
+			"settings":
+			{
+				"buffer_size": 2536,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/assets/index.html",
+			"settings":
+			{
+				"buffer_size": 927,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "splashColor = #5082ef\naboutColor = #ffc608\ndetailColor = #fc0a7a\nprojectsColor = #8600b7\nbody\n  font-size 16pt\n  font-family \"Exo 2\", sans-serif\n  font-weight normal\n  width 90%\n  font-size 1.1em\n  max-width 700px\n  margin-left auto\n  margin-right auto\n  display block\n  line-height 1.45em\n  letter-spacing 0.01em\n\nh1, h2, h3, h4, h5, h6\n  font-family \"Titillium Web\", sans-serif\n  font-weight 300\n\na\n  text-decoration none\n  color detailColor\n\narticle\n  img\n    width 100%\n    \n",
+			"file": "app/main.styl",
+			"file_size": 500,
+			"file_write_time": 130724556879872621,
+			"settings":
+			{
+				"buffer_size": 479,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "app/content/blog-post-1.coffee",
 			"settings":
 			{
-				"buffer_size": 9268,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/content/informal-interview.md",
-			"settings":
-			{
-				"buffer_size": 5517,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/main.styl",
-			"settings":
-			{
-				"buffer_size": 444,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "public/app.js",
-			"settings":
-			{
-				"buffer_size": 310188,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "bower.json",
-			"settings":
-			{
-				"buffer_size": 170,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "brunch-config.coffee",
-			"settings":
-			{
-				"buffer_size": 852,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/content.coffee",
-			"settings":
-			{
-				"buffer_size": 666,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/main.coffee",
-			"settings":
-			{
-				"buffer_size": 1214,
+				"buffer_size": 9238,
 				"line_ending": "Windows"
 			}
 		}
@@ -760,10 +731,27 @@
 	],
 	"file_history":
 	[
+		"/C/Users/William/Documents/2014-2015/seniorproject/node_modules/javascript-brunch/node_modules/esprima/test/test.js",
+		"/C/Users/William/Documents/2014-2015/seniorproject/node_modules/stylus-brunch/node_modules/stylus/node_modules/sax/test/issue-30.js",
+		"/C/Users/William/Documents/2014-2015/seniorproject/app/content/topic-exploration.md",
+		"/C/Users/William/Documents/2014-2015/seniorproject/app/content/topic-declaration.md",
+		"/C/Users/William/Documents/2014-2015/seniorproject/Senior Project.sublime-project",
+		"/C/Users/William/Documents/2014-2015/seniorproject/node_modules/stylus-brunch/node_modules/stylus/node_modules/sax/test/self-closing-tag.js",
+		"/C/Users/William/Downloads/BFCompiler.coffee",
+		"/C/Users/William/Documents/2014-2015/seniorproject/node_modules/stylus-brunch/node_modules/stylus/lib/renderer.js",
+		"/C/Users/William/Documents/2014-2015/seniorproject/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/optimist/example/default_hash.js",
+		"/C/Users/William/Documents/2014-2015/seniorproject/README.md",
+		"/C/Users/William/Documents/2014-2015/seniorproject/app/Interactive.coffee",
+		"/C/Users/William/Documents/2014-2015/seniorproject/app/main.coffee",
+		"/C/Users/William/Documents/2014-2015/seniorproject/app/content.coffee",
+		"/C/Users/William/Documents/2014-2015/seniorproject/bower.json",
+		"/C/Users/William/Documents/2014-2015/seniorproject/public/app.js",
+		"/C/Users/William/Documents/2014-2015/seniorproject/app/main.styl",
+		"/C/Users/William/Documents/2014-2015/seniorproject/app/content/blog-post-1.coffee",
+		"/C/Users/William/Documents/2014-2015/seniorproject/brunch-config.coffee",
 		"/C/Users/William/Documents/2014-2015/seniorproject/app/assets/index.html",
 		"/C/Users/William/Documents/2014-2015/seniorproject/.gitignore",
 		"/C/Users/William/Documents/2014-2015/seniorproject/bower_components/jquery/src/selector-sizzle.js",
-		"/C/Users/William/Documents/2014-2015/seniorproject/Senior Project.sublime-project",
 		"/C/Users/William/Documents/2014-2015/Smash/app/fighters/test3/test3.coffee",
 		"/C/Users/William/Documents/2014-2015/Smash/app/fighters/test3/moves/TestFireMove.coffee",
 		"/C/Users/William/Documents/2014-2015/Smash/app/Event.coffee",
@@ -870,24 +858,7 @@
 		"/C/Users/William/Documents/2014-2015/Smash/public/models/Test 3.json",
 		"/C/Users/William/Documents/2014-2015/Smash/public/models/Test 3.blend",
 		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/lib/ast.js",
-		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/data.js",
-		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/node_modules/optimist/example/default_hash.js",
-		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/package.json",
-		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/test/compress/debugger.js",
-		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/package.json",
-		"/C/Users/William/Downloads/JavaTester.js",
-		"/C/Users/William/Documents/2014-2015/Smash/node_modules/auto-reload-brunch/node_modules/ws/node_modules/tinycolor/.gitignore",
-		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/test/compress/concat-strings.js",
-		"/C/Users/William/Documents/2014-2015/Smash/app/fighters/test3.coffee",
-		"/C/Users/William/Documents/2014-2015/Smash/app/fighters/PersonThing.coffee",
-		"/C/Users/William/Non-sync/PC/SSGX/Readme.txt",
-		"/C/Users/William/Downloads/Ori and the Blind Forest PC game ^^nosTEAM^^/READ ME FIRST !!!.txt",
-		"/C/Users/William/Documents/2014-2015/Smash/app/moves/FallMove.coffee",
-		"/C/Users/William/Documents/2014-2015/Smash/app/moves/SmashMove.coffee",
-		"/C/Users/William/Documents/2014-2015/Smash/app/moves/test3/TestRecoveryMove.coffee",
-		"/C/Users/William/Documents/2014-2015/Smash/app/moves/SmashChargeMove.coffee",
-		"/C/Users/William/Documents/2014-2015/Smash/node_modules/coffee-script-brunch/node_modules/coffee-script/lib/coffee-script/lexer.js",
-		"/C/Users/William/Documents/2014-2015/Smash/node_modules/uglify-js-brunch/node_modules/uglify-js/test/compress/blocks.js"
+		"/C/Users/William/Documents/2014-2015/Smash/bower_components/jquery/src/data.js"
 	],
 	"find":
 	{
@@ -912,6 +883,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"render",
+			".png",
+			"screen shot",
+			"choice",
+			"appendHTML",
+			"append",
+			"next",
+			"@currentNode",
+			"currentNode",
+			"choice",
+			"id",
 			"escape",
 			":",
 			"Precontent",
@@ -1028,18 +1010,7 @@
 			"intervals: size",
 			"xmax",
 			"xmin",
-			"            text = \"\" \n",
-			"yeah",
-			"um, uh",
-			"you know",
-			"invincibl",
-			"frictionZ",
-			"friction",
-			"applyVelo",
-			"gravity",
-			"air turn",
-			"AerialMove",
-			"air turn"
+			"            text = \"\" \n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1069,64 +1040,64 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/content/blog-post-1.coffee",
+					"file": "app/Interactive.coffee",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9268,
+						"buffer_size": 2536,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4523,
-								4523
+								1548,
+								1548
 							]
 						],
 						"settings":
 						{
-							"spell_check": true,
 							"syntax": "Packages/sublime-better-coffeescript/CoffeeScript.tmLanguage",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2277.0,
+						"translation.y": 1095.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "app/content/informal-interview.md",
-					"semi_transient": true,
+					"file": "app/assets/index.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5517,
+						"buffer_size": 927,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								682,
-								682
+								792,
+								792
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 101.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1138,15 +1109,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 444,
+						"buffer_size": 479,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								288,
-								288
+								479,
+								479
 							]
 						],
 						"settings":
@@ -1159,151 +1130,35 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "public/app.js",
+					"file": "app/content/blog-post-1.coffee",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 310188,
+						"buffer_size": 9238,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								288670,
-								288670
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 825.0,
-						"translation.y": 246525.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "bower.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 170,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								120,
-								120
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "brunch-config.coffee",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 852,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								583,
-								583
+								2136,
+								2136
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/sublime-better-coffeescript/CoffeeScript.tmLanguage",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "app/content.coffee",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 666,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								368,
-								368
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/sublime-better-coffeescript/CoffeeScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "app/main.coffee",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1214,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								606,
-								606
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/sublime-better-coffeescript/CoffeeScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 910.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -1362,6 +1217,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"index",
+				"app\\assets\\index.html"
+			],
 			[
 				"test",
 				"app\\fighters\\test3\\test3.coffee"
@@ -1457,10 +1316,6 @@
 			[
 				"figh",
 				"app\\Fighter.coffee"
-			],
-			[
-				"index",
-				"app\\assets\\index.html"
 			],
 			[
 				"stag",
@@ -1859,11 +1714,15 @@
 		"selected_items":
 		[
 			[
-				"",
+				"per",
 				"C:\\Users\\William\\Documents\\2014-2015\\Personal Site\\Personal Site.sublime-project"
 			],
 			[
-				"per",
+				"sm",
+				"C:\\Users\\William\\Documents\\2014-2015\\Smash\\Smash.sublime-project"
+			],
+			[
+				"",
 				"C:\\Users\\William\\Documents\\2014-2015\\Personal Site\\Personal Site.sublime-project"
 			]
 		],

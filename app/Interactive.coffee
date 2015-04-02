@@ -14,6 +14,7 @@ module.exports = class Interactive
   render: (id)->
     node = findById(@nodes, id)
     @appendHTML(node.html)
+    @chooser.hide()
     if node.getNext()?
       @render(node.getNext())
     else if node.getChoices()?
@@ -24,7 +25,7 @@ module.exports = class Interactive
       @article.append(html)
 
   appendHeading: (heading)->
-    @appendHTML(marked("####{heading}"))
+    @appendHTML(marked("<div class=\"userreply\">#{heading}</div>"))
 
 class Node
   constructor: (fragmentData)->
@@ -38,7 +39,7 @@ class Node
       else
         @choices = for choice in fragmentData.next
           {
-            html: marked(choice.content)
+            html: marked("<div>#{choice.content}</div>")
             next: choice.next
           }
 
@@ -61,14 +62,13 @@ class Node
 
 class Chooser
   constructor: (@interactive)->
-    @element = $("<ul class=\"options\"></ol>")
+    @element = @interactive.element.find(".options")
   show: (node)->
     @element.empty()
     for choice in node.getChoices()
       elem = $("<li></li>").html(choice.html)
       do (choice)=>
         elem.click ()=>
-          @hide()
           node.removeChoice(choice)
           @interactive.appendHeading(choice.html)
           @interactive.render(choice.next)

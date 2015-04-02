@@ -27,19 +27,19 @@ module.exports =
     }
     {
       id: "Intro-What"
-      content: "Interactivity is just an exchange between two people or things. In the context of a blog post, a simple way to provide interactivity would be to provide the reader with multiple dialogue options to chose from."
+      content: "Interactivity is just an exchange between two people or things. In the context of a blog post, a simple way to provide interactivity would be to provide the reader with [multiple dialogue options](http://www.ifc.com/fix/2010/02/dialogue) to chose from."
       next: "Summary"
     }
     {
       id: "Intro-How"
-      content: "For starters, I could provide the reader with multiple options to chose from. After all, interactivity is just an exchange between two people or things."
+      content: "For starters, I could provide the reader with [multiple options to chose from](http://thenextweb.com/twitter/2015/01/13/play-choose-adventure-twitter/). After all, interactivity is just an exchange between two people or things."
       next: "Summary"
     }
     {    
       id: "Summary"
       content: 
         """
-        Although it's a tad more difficult to author interactive content, I can hope that by providing interactivity, this post can be more enjoyable, engaging, and memorable.
+        Although it's a tad more difficult to [author interactive content](http://www.inklestudios.com/inklewriter/), I can hope that by providing interactivity, this post can be more enjoyable, engaging, and memorable.
 
         # Summary
         It may not seem like much, but I had to write plenty of code under the scenes to make this interactive blog post work. It's sad that even simple interactions, like "choose your own response" that I created (psst - the outcomes [aren't really that different](https://www.youtube.com/watch?v=45PdtGDGhac); refresh and see for yourself), are lacking from media employed in today's classroom: handouts, textbooks, videos, and lectures.
@@ -50,7 +50,7 @@ module.exports =
           next: "Summary-Homework"
         }
         {
-          content: "What do you think is the future of education?"
+          content: "I see what you're saying. That's neat!"
           next: "Summary-Continued"
         }
       ]
@@ -92,7 +92,7 @@ module.exports =
         - Student-teacher
         - Student-content
 
-        There's plenty to be said on these three major topics, ranging from culture to storytelling to interactive media, respectively. The TED Talk just touched upon student-student interaction. I have yet to fully flesh out each of these sections in depth, but there's the gist of it.
+        There's plenty to be said on these three major topics, ranging from culture to [storytelling](http://www.ted.com/talks/andrew_stanton_the_clues_to_a_great_story) to interactive media, respectively. The TED Talk just touched upon student-student interaction. I have yet to fully flesh out each of these sections in depth, but there's the gist of it.
         """
       next: "Reflection"
     }
@@ -202,7 +202,7 @@ module.exports =
       id: "Evidence-Links"
       content:
         """
-        Glad you noticed! There are six distinct links, some hidden within dialogue choices. I'll leave it to you to [find them all](http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/). And here's one of them!
+        Glad you noticed! There are ten distinct links, some hidden within dialogue choices. I'll leave it to you to [find them all](http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/). And here's one of them!
         """
       next: "Evidence-Choice"
     }
