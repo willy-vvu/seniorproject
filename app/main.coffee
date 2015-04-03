@@ -5,6 +5,14 @@ getPostIndex = (id)->
     return index
   return null
 
+window.getPageUrl = ()->
+  "/seniorproject/#{currentPost}"
+
+# Make links open in new page
+marked.InlineLexer.prototype.outputLink = require("markedlinks")
+window.linkClick = (element)->
+  ga('send', 'event', "#{element.href}", "clicked",{'page': getPageUrl()});
+
 updatePost = ()->
   index = getPostIndex(currentPost)
   if index?
@@ -28,7 +36,7 @@ updatePost = ()->
       $(".previous").show().attr("href", "#"+content[index-1].id)
     else
       $(".previous").hide()
-  ga('send', 'pageview', "/#{currentPost}")
+  ga('send', 'pageview', getPageUrl())
 
 if (index = getPostIndex(location.hash[1..]))?
   window.currentPost = content[index].id

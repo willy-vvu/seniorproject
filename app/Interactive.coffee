@@ -69,7 +69,7 @@ class Chooser
       elem = $("<li></li>").html(choice.html)
       do (choice)=>
         elem.click ()=>
-          ga('send', 'event', "#{node.id} chooser", "#{choice.next} chosen",{'page': "/#{currentPost}"});
+          ga('send', 'event', "#{node.id} chooser", "#{choice.next} chosen",{'page': getPageUrl()});
           node.removeChoice(choice)
           @interactive.appendHeading(choice.html)
           @interactive.render(choice.next)
@@ -81,32 +81,3 @@ findById = (array, id)->
   for obj in array when obj.id is id
     return obj
   return null
-
-# Make links open in new page
-marked.InlineLexer.prototype.outputLink = `function(cap, link) {
-  if (cap[0].charAt(0) !== '!') {
-    return '<a target="_blank" href="'
-      + link.href
-      + '"'
-      + (link.title
-      ? ' title="'
-      + link.title
-      + '"'
-      : '')
-      + '>'
-      + this.output(cap[1])
-      + '</a>';
-  } else {
-    return '<img src="'
-      + link.href
-      + '" alt="'
-      + cap[1]
-      + '"'
-      + (link.title
-      ? ' title="'
-      + link.title
-      + '"'
-      : '')
-      + '>';
-  }
-};`
