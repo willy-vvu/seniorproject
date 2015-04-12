@@ -1,0 +1,62 @@
+{
+  "title": "Post",
+  "type": "object",
+  "properties": {
+    "first": {
+      "type": "string",
+      "title": "First Fragment"
+    },
+    "fragments": {
+      "type": "array",
+      "title": "Fragments",
+      "items": {
+        "type": "object",
+        "title": "Fragment",
+        "headerTemplate": "{{self.id}}",
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Fragment ID"
+          },
+          "content": {
+            "type": "string",
+            "title": "Content",
+            "format": "markdown"
+          },
+          "next": {
+            "title": "Link to...",
+            "type": [
+              {
+                "type": "string",
+                "title": "Direct",
+                "default": ""
+              },
+              {
+                "type": "array",
+                "title": "Choices",
+                "items": {
+                  "type": "object",
+                  "title": "Choice",
+                  "headerTemplate": "{{self.content}} > {{self.next}}",
+                  "properties": {
+                    "content": {
+                      "type": "string",
+                      "title": "Choice Text",
+                      "format": "markdown",
+                      "default": ""
+                    },
+                    "next": {
+                      "type": "string",
+                      "title": "Next fragment ID",
+                      "default": ""
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

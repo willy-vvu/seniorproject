@@ -30,10 +30,10 @@ module.exports = class Interactive
 class Node
   constructor: (fragmentData)->
     @id = fragmentData.id
-    @html = fragmentData.content? and marked(fragmentData.content) or ""
+    @html = fragmentData.content and marked(fragmentData.content) or ""
     @next = null
     @choices = null
-    if fragmentData.next?
+    if fragmentData.next
       if typeof fragmentData.next is "string"
         @next = fragmentData.next
       else
