@@ -1,5 +1,11 @@
 module.exports=[
   {
+    id : "blog-post-3"
+    date : 1429280390287
+    title: "Blog Post 3"
+    interactive: true
+  }
+  {
     id : "blog-post-2"
     date : 1428789194519
     title: "Blog Post 2"
